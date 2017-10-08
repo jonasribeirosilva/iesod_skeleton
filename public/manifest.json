@@ -1,0 +1,15 @@
+{
+  "short_name": "IESODApp",
+  "name": "Iesod APp",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "50x50",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.php",
+  "display": "standalone",
+  "theme_color": "#CCC",
+  "background_color": "#ffffff"
+}
