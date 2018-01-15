@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "5f8afb8dd855a10bc7f889e2ac3af301",
+    "content-hash": "c981015dc9b33e1aa54aed4a3b717b91",
     "packages": [
         {
             "name": "dwoo/dwoo",
@@ -47,16 +47,16 @@
         },
         {
             "name": "jonassilva/iesod",
-            "version": "0.0.1-alpha",
+            "version": "0.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jonasribeirosilva/iesod.git",
-                "reference": "bc7175e0b36da0470b853c1a7c201ad2c919a745"
+                "reference": "ca5479d75cd91c6968ecf2fb948601768bfc25ea"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jonasribeirosilva/iesod/zipball/bc7175e0b36da0470b853c1a7c201ad2c919a745",
-                "reference": "bc7175e0b36da0470b853c1a7c201ad2c919a745",
+                "url": "https://api.github.com/repos/jonasribeirosilva/iesod/zipball/ca5479d75cd91c6968ecf2fb948601768bfc25ea",
+                "reference": "ca5479d75cd91c6968ecf2fb948601768bfc25ea",
                 "shasum": ""
             },
             "require": {
@@ -80,15 +80,13 @@
                 }
             ],
             "homepage": "http://jonassilva.com.br",
-            "time": "2017-10-08T07:13:00+00:00"
+            "time": "2018-01-15T05:41:13+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "jonassilva/iesod": 15
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
